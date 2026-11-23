@@ -1,0 +1,12 @@
+Assets/
+Library/
+Temp/
+Logs/
+UserSettings/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+Builds/LinuxServer/*BurstDebugInformation*/
+Builds/LinuxServer/FigureServer_Data/sharedassets0.assets.resS
